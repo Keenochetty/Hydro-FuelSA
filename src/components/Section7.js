@@ -178,7 +178,7 @@ function Section7() {
                 <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg shadow-black rounded-lg bg-lightBlue-200">
                   <img
                     alt="..."
-                    src="/images/liter.JPG"
+                    src="/images/liter.jpg"
                     className="w-full align-middle rounded-t-lg"
                   />
                   <blockquote className="relative p-8 mb-4">

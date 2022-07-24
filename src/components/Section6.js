@@ -35,7 +35,7 @@ function Section6() {
       <div className="max-w-sm mx-auto overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800">
         <img
           className="object-cover object-center w-5/6 h-56 mx-auto"
-          src="/images/Generator.jpg"
+          src="/images/Generator.JPG"
           alt="avatar"
         />
 
