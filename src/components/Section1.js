@@ -117,7 +117,7 @@ function Section1() {
         </div>
 
         <div className="flex items-center justify-center w-full h-96 lg:w-1/2  ">
-          <video className=" object-cover w-full h-full max-w-2xl rounded-md" src="/images/hydro-system.mp4" muted loop autoplay ></video>
+          <video className=" object-cover w-full h-full max-w-2xl rounded-md" src="/images/1.mp4" muted loop autoPlay ></video>
           {/* <img
             className="object-cover w-full h-full max-w-2xl rounded-md"
             src="/images/carvis.png"
