@@ -7,7 +7,7 @@ function Section6() {
       <div className="max-w-sm mx-auto overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800 ">
         <img
           className="object-cover object-center w-full h-56"
-          src="/images/HHOsystem.jpg"
+          src="/images/HHOsystem.JPG"
           alt="avatar"
         />
 
