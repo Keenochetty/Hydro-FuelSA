@@ -103,7 +103,7 @@ function Dashboard() {
       setTotalgain((totaldistance - 750).toFixed(2));
       setPetrolrate(((petrolprice * 50) / totaldistance).toFixed(2));
     }
-  }, [dataset]);
+  }, [totaldistance]);
 
   return (
     <div className="flex flex-row ">
